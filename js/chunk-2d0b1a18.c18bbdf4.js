@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b1a18"],{2158:function(n,u,e){"use strict";e.r(u);var r=function(){var n=this,u=n._self._c;return u("div",[n._v("团购订单列表")])},t=[],a={name:"GroupOrder"},c=a,l=e("2877"),o=Object(l["a"])(c,r,t,!1,null,null,null);u["default"]=o.exports}}]);
