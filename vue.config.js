@@ -3,6 +3,7 @@ module.exports = {
     lintOnSave: false, 
     // 打包时不需要map文件
     productionSourceMap: false,
+    publicPath: './',
     // 配置代理
     devServer: {
         proxy: {
@@ -13,5 +14,5 @@ module.exports = {
                 changeOrigin: true // 用于控制请求头中的host值
             }
         }
-    }
+    },
 }
