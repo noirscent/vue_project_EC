@@ -1,0 +1,23 @@
+{
+  "id": "3687387",
+  "name": "sort",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6151377",
+      "name": "sort-down",
+      "font_class": "sort-down",
+      "unicode": "e843",
+      "unicode_decimal": 59459
+    },
+    {
+      "icon_id": "6151384",
+      "name": "sort-up",
+      "font_class": "sort-up",
+      "unicode": "e844",
+      "unicode_decimal": 59460
+    }
+  ]
+}
